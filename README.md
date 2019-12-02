@@ -1,2 +1,2 @@
 # educationManagement
-Java Swing Simple School Project
+Java FX Simple School Project
